@@ -1,1 +1,1 @@
-# IS（Information security）
+# （Information security）
